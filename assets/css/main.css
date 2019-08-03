@@ -2524,9 +2524,12 @@ input, select, textarea {
 /* Image Feature */
 
 	.image-feature {
+		height: 251px;
+		width: 491px;
 		position: relative;
 		text-align: center;
-		margin: 0 0.5em 2em 0.5em;
+		margin: 0 3em 2em 3em;
+		/*JESSICA HI :) */
 	}
 
 		.image-feature > a {
